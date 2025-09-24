@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Wang]
-  first_name: [Cheng-Jun]
+  last_name: [Yu]
+  first_name: [Tian-Qi]
 
   style: apa
   locale: en
