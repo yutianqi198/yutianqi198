@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Yu Tianqi is currently pursuing a master's degree in Communication at Nanjing University. She enjoys anime and alternative music, is very friendly, but sometimes behaves in an unconventional manner. She is interested in the field of communication sociology and is currently a novice researcher without any outstanding achievements. During the next three years of her master's program, she hopes to focus on a specific group, provide them with sufficient understanding, conduct a solid field investigation, and study diligently while constantly improving. Finally, she hopes that people can understand each other, communicate rationally, and achieve world peace. You can find her CV(https://tianqiyu198.github.io/cv/)
+Yu Tianqi is currently pursuing a master's degree in Communication at Nanjing University. She enjoys anime and alternative music, is very friendly, but sometimes behaves in an unconventional manner. She is interested in the field of communication sociology and is currently a novice researcher without any outstanding achievements. During the next three years of her master's program, she hopes to focus on a specific group, provide them with sufficient understanding, conduct a solid field investigation, and study diligently while constantly improving. Finally, she hopes that people can understand each other, communicate rationally, and achieve world peace. You can find my CV [here](/assets/pdf/于天祺个人简历-南京大学.pdf).
 
 <img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
