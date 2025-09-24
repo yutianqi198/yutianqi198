@@ -4,13 +4,11 @@ permalink: /cv/
 title: cv
 nav: false
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: /assets/pdf/于天祺个人简历-南京大学.pdf
 description: 
 
 toc:
   sidebar: left
 ---
-
-🖋<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/assets/json/resume.json">Edit this page.</a>
 
 
