@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: works
+title: 各类作品
 description: Stay hungry, stay foolish.
 nav: true
 nav_order: 1
