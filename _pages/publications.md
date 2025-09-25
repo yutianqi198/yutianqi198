@@ -55,7 +55,6 @@ nav_order: 1
 [【百度网盘】](链接：https://pan.baidu.com/s/1yMySK0e8R3resxqi5rbfrQ?pwd=CBF7 )
 提取码：CBF7 
 
-
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/publications.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
