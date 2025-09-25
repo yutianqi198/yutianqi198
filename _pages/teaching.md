@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /实习实践/
+permalink: /teaching/
 title: 实习实践
 description: Actions speak louder than words. 
 nav: true
