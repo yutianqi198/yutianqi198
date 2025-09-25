@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink:/about/
+permalink: /
 subtitle: 
 profile:
 news: true  # includes a list of news items
