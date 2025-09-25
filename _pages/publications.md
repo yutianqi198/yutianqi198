@@ -7,10 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-[纪实｜南大劳育课：酿酒、包饺子、消灭入侵物种、清洗空调滤网、数学辅导……](https://mp.weixin.qq.com/s/DzbDs9rzOmjSN6qEB1g_PQ)
-[荐读 | 十一月，有哪些报道不容错过？](https://mp.weixin.qq.com/s/WNOqwycKNo-4JILpWAuSeg)
-[中国新闻传播教育年鉴编委会第十三次会议圆满举行](https://mp.weixin.qq.com/s/tGjBsCvHHLbKoUlh2gQggA)
-
 **采编作品（部分）**
 <br>
 （一）新潮：<br>
