@@ -49,8 +49,6 @@ nav_order: 5
 *2023.12—2024.12 共创与共享：知识共享平台知识创造与传播机制— —以视频类知识社区B站为例 主持人 大创国家级立项*
 担任大创项目第一主持人，带领3人团队对数字时代下的知识社会建构开展研究。研究从知识接受者和知识创造者两个角度入手，主要采用问卷分析法、访谈法以及内容分析法。目前项目正在进行中，已累积发放问卷800份，并使用Stata进行SEM分析，产出1.5w论文一篇，并向南京大学基础学科论坛投稿，获评三等奖，项目获国家级立项。
 
-![image](https://user-images.githubusercontent.com/543384/147380016-da65a625-6480-47f4-8e27-5034d696f553.png)
-
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/teaching.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
