@@ -7,6 +7,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
+cv_pdf: yutianqi_cv.pdf
 social: true  # includes social icons at the bottom of the page
 nav: true  # 在导航栏显示
 nav_order: 1  # 导航栏位置
