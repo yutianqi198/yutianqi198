@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Yutianqi
-permalink: /yutianqi/
+permalink: /yutianqi198/
 subtitle: 
 profile:
 news: false  # includes a list of news items
